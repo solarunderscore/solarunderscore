@@ -4,7 +4,7 @@
 ## Current Linux Setup
 ![image](https://media.discordapp.net/attachments/655947537538088962/823699374395097096/unknown.png)
 
-This is KDE Plasma with the Artix Linux. Artix Linux is a distrubution that is Arch based, but with a different init system. I am using the OpenRC init system for my build.
+This is KDE Plasma with the Arch Linux. Arch Linux is a minimalist distribution, you need to go from a command prompt to the desktop.
 
 Why don't I use a WM? Personal choice to use KDE because I am just to use to going to find a System Setting and changing things from there. In the futrue I am planning on using a WM such as [AwesomeWM](https://github.com/awesomeWM/awesome) or [DWM](https://dwm.suckless.org/). These two caught my eye because they are both dynamic window managers.
 
