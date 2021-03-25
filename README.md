@@ -2,7 +2,7 @@
 *What do I do? I am a very new Linux user, and this page is just for me to organize all my projects and configs. There are some guides aswell if you are interested!*
 
 ## Current Linux Setup
-![image](https://cdn.discordapp.com/attachments/710582379265261568/815725386913808434/unknown.png)
+![image](https://media.discordapp.net/attachments/655947537538088962/823699374395097096/unknown.png)
 
 This is KDE Plasma with the Artix Linux. Artix Linux is a distrubution that is Arch based, but with a different init system. I am using the OpenRC init system for my build.
 
